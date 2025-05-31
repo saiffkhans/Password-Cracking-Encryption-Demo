@@ -1,0 +1,6 @@
+Password Cracking & Encryption Demo
+•	Created a Python-based simulation of password hashing using SHA-256 and bcrypt, with a brute-force/dictionary attack module.
+•	Demonstrated weaknesses in unsalted hashes and importance of strong encryption algorithms.
+•	Explained the differences between hashing, salting, and encryption in a blog-style GitHub README.
+•	Highlighted understanding of authentication mechanisms and cryptography basics.
+•	Tools & Tech: Python, hashlib, bcrypt, passlib, random, string, •  Hashing, Salting, Brute Force, Dictionary Attacks, Linux for CLI testing.
